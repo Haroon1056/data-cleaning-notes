@@ -9,18 +9,22 @@ This repository contains notes from a data cleaning course. The notes cover vari
 
 - Techniques for identifying and dealing with missing values.
 - Strategies for imputation and handling missing data in datasets.
+
 **2. Outlier Detection and Handling:**
 
 - Methods for detecting outliers in data.
 - Approaches for handling and mitigating the impact of outliers.
+
 **3. Data Scaling and Transformation:**
 
 - Techniques for scaling and transforming data to improve analysis.
 - Methods for normalizing and standardizing data.
+
 **4. Handling Duplicates:**
 
 - Strategies for identifying and removing duplicate records in datasets.
 - Best practices for ensuring data uniqueness.
+
 **5. Dealing with Inconsistent Data:**
 
 - Approaches for identifying and correcting inconsistencies in data.
